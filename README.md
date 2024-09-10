@@ -1,0 +1,2 @@
+# mojolang
+Learning MOJO
