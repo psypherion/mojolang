@@ -1,0 +1,12 @@
+[project]
+authors = ["psypherion <williamskyle562@gmail.com>"]
+channels = ["conda-forge", "https://conda.modular.com/max"]
+description = "Add a short description here"
+name = "hello-world"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+max = ">=24.4.0,<25"
